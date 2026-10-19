@@ -1,9 +1,9 @@
 # 👩‍💻 Hi there, I'm I Gusti Ayu Diah Permata Sukmahartawan 👋
 
 <p align="left">
-  <!-- ANIMASI KETIK -->
+  <!-- ANIMASI KETIK HEADER -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=false&vCenter=true&width=600&lines=Software+Engineering+Student+2026;IT+Network+Systems+Administration+(ITNSA);UI%2FUX+%26+Graphic+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=false&vCenter=true&width=600&lines=Software+Engineering+Student+2026;IT+Network+Systems+Administration+(ITNSA);UI%2FUX+%26+Graphic+Designer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG Header" />
   </a>
 </p>
 
@@ -15,6 +15,13 @@
 ---
 
 ### 🎓 About Me
+
+<p align="left">
+  <!-- ANIMASI KETIK ABOUT ME -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=36BCF7&center=false&vCenter=true&width=600&lines=Passionate+about+ITNSA+%26+UI%2FUX+Design;Bridging+Infrastructure+%26+User+Experience" alt="Typing SVG About" />
+  </a>
+</p>
 
 "I am **I Gusti Ayu Diah Permata Sukmahartawan**, an Informatics Engineering student specializing in Software Engineering Technology. 
 
@@ -30,6 +37,13 @@ My core expertise lies in **IT Network Systems Administration (ITNSA)** and **Us
 
 #### 🌐 Networking & ITNSA
 <p align="left">
+  <!-- ANIMASI KETIK NETWORKING -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=12557A&center=false&vCenter=true&width=500&lines=Routing+%26+Switching+%7C+Server+Admin;Network+Security+%7C+Virtualization" alt="Typing SVG Networking" />
+  </a>
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Cisco-12557A?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows Server" />
@@ -44,34 +58,12 @@ My core expertise lies in **IT Network Systems Administration (ITNSA)** and **Us
 
 #### 💻 Basic Programming
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- ANIMASI KETIK PROGRAMMING -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=F7DF1E&center=false&vCenter=true&width=500&lines=HTML5+%7C+CSS3+%7C+JavaScript+%7C+C%2B%2B+%7C+MySQL;Web+Development+%26+Logical+Problem+Solving" alt="Typing SVG Programming" />
+  </a>
 </p>
 
-- **HTML & CSS:** Structuring and styling responsive web pages.
-- **Basic JavaScript:** Implementation of basic interactive web features and script logic.
-- **C++ & Algorithms:** Understanding core programming structures, data types, and logical problem-solving.
-- **Basic SQL:** Formulating basic database queries (`SELECT`, `INSERT`, `UPDATE`, `DELETE`).
-
----
-
-#### 🎨 Design & Prototyping
 <p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-- **UI/UX Design:** Creating wireframes, low-fidelity, and high-fidelity interactive prototypes using Figma.
-- **Graphic Design:** Layout design, visual assets, branding elements, and promotional materials.
-
----
-
-### 📫 Connect With Me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [I Gusti Ayu Diah Permata Sukmahartawan](https://www.linkedin.com/in/i-gusti-ayu-diah-permata-sukmahartawan) |
-| **Instagram** | [@iga.diah_permata](https://www.instagram.com/iga.diah_permata) |
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="
