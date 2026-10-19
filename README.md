@@ -67,7 +67,7 @@ My core expertise lies in **IT Network Systems Administration (ITNSA)** and **Us
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [I Gusti Ayu Diah Permata Sukmahartawan]([https://www.linkedin.com/in/iga-diah-permata](https://www.linkedin.com/in/i-gusti-ayu-diah-permata-sukmahartawan) |
+| **LinkedIn** | [I Gusti Ayu Diah Permata Sukmahartawan](https://www.linkedin.com/in/i-gusti-ayu-diah-permata-sukmahartawan) |
 | **Instagram** | [@iga.diah_permata](https://www.instagram.com/iga.diah_permata) |
 
 ---
