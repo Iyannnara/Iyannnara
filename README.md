@@ -16,7 +16,7 @@
 
 ### 🎓 About Me
 
-"I am **I Gusti Ayu Diah Permata Sukmahartawan**, an Informatics Engineering student specializing in Software Engineering Technology. 
+Hello Everyone, My name is **I Gusti Ayu Diah Permata Sukmahartawan**, an Informatics Engineering student specializing in Software Engineering Technology. 
 
 My core expertise lies in **IT Network Systems Administration (ITNSA)** and **User Interface/User Experience (UI/UX) Design**, backed by fundamental knowledge in **web development and logic (HTML, CSS, C++)**. This unique combination allows me to understand system infrastructures while designing intuitive, user-friendly digital applications."
 
