@@ -1,7 +1,7 @@
 # 👩‍💻 Hi there, I'm I Gusti Ayu Diah Permata Sukmahartawan 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iga-diah-permata](https://www.linkedin.com/in/i-gusti-ayu-diah-permata-sukmahartawan-2b3442425/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/i-gusti-ayu-diah-permata-sukmahartawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/iga.diah_permata"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
