@@ -14,7 +14,7 @@
 
 ---
 
-### 🎓 About Me
+### About Me
 
 Hello Everyone, My name is **I Gusti Ayu Diah Permata Sukmahartawan**, an Informatics Engineering student specializing in Software Engineering Technology. 
 
