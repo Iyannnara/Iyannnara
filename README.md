@@ -1,7 +1,6 @@
-# 👩‍💻 Hi there, I'm I Gusti Ayu Diah Permata Sukmahartawan 👋
+# 👩‍💻 Hi there, I'm I Gusti Ayu Diah Permata Sukmahartawan 
 
 <p align="left">
-  <!-- ANIMASI KETIK -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=false&vCenter=true&width=600&lines=Software+Engineering+Student+2026;IT+Network+Systems+Administration+(ITNSA);UI%2FUX+%26+Graphic+Designer" alt="Typing SVG" />
   </a>
@@ -20,13 +19,13 @@ Hello Everyone, My name is **I Gusti Ayu Diah Permata Sukmahartawan**, an Inform
 
 My core expertise lies in **IT Network Systems Administration (ITNSA)** and **User Interface/User Experience (UI/UX) Design**, backed by fundamental knowledge in **web development and logic (HTML, CSS, C++)**. This unique combination allows me to understand system infrastructures while designing intuitive, user-friendly digital applications."
 
-- 🎓 **Major:** Informatics Engineering
-- 📑 **Study Program:** Software Engineering Technology (*TRPL*)
-- 💡 **Core Interests:** IT Network Systems Administration, UI/UX & Graphic Design, Web Development
+- **Major:** Informatics Engineering
+- **Study Program:** Software Engineering Technology (*TRPL*)
+- **Core Interests:** IT Network Systems Administration, UI/UX & Graphic Design, Web Development
 
 ---
 
-### 🛠️ Tech Stack & Skillset
+### Tech Stack & Skillset
 
 #### 🌐 Networking & ITNSA
 <p align="left">
@@ -69,7 +68,7 @@ My core expertise lies in **IT Network Systems Administration (ITNSA)** and **Us
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 | Platform | Link |
 | :--- | :--- |
